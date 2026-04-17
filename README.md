@@ -1,2 +1,1 @@
-# test_repo
-SkyPro practice
+# Мой первый репозиторий
